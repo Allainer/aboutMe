@@ -1,0 +1,7 @@
+{
+  "name": "About Me Homepage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
